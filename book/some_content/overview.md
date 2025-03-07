@@ -2,4 +2,9 @@
 
 test tekst
 
-![](Kelly van Strien - Ceci est une Fraise.jpg)
+```{figure} Fraise.jpg
+:width: 80%
+:name: fig_Fraise
+```
+
+In {numref}`Figuur {number <fig_Fraise>` staat een aardbei.
