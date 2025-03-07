@@ -7,4 +7,4 @@ test tekst
 :name: fig_Fraise
 ```
 
-In {numref}`Figuur {number <fig_Fraise>` staat een aardbei.
+In {numref}`Figuur {number} <fig_Fraise>` staat een aardbei.
